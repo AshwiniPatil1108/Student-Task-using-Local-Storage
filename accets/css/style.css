@@ -1,0 +1,18 @@
+*{
+	margin:0;
+	padding:0;
+}
+:root{
+	--primary-color:#1e2147;
+	--secondary-color:#2a1a7e;
+	--color-white:#fff;
+	--color-dark:#000;
+}
+.header{
+	background-color:var(--primary-color);
+	color:var(--color-white);
+}
+body{
+	background-color:var(--secondary-color);
+	color:var(--color-dark);
+}
